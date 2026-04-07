@@ -3,19 +3,19 @@
 Исследую мир через данные. Люблю превращать хаос в понятную систему и инсайты. 
 </p>
 
-<p align="center">
-  <img width="98" height="28" alt="image" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redash-FF7964?style=for-the-badge&logo=redash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yandex.DataLens-FF0000?style=for-the-badge&logo=yandex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<div>
+  <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/sql-white?logo=postgresql&logoColor=blue&style=for-the-badge" title="SQL" alt="SQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=black&style=for-the-badge" title="NumPy" alt="NumPy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/scipy-white?logo=scipy&logoColor=black&style=for-the-badge" title="SciPy" alt="SciPy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/matplotlib-white?logo=matplotlib&logoColor=black&style=for-the-badge" title="Matplotlib" alt="Matplotlib" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/seaborn-white?logo=seaborn&logoColor=black&style=for-the-badge" title="Seaborn" alt="Seaborn" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/jupyter-white?logo=jupyter&logoColor=orange&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=red&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Yandex%20DataLens-white?logo=yandex&logoColor=red&style=for-the-badge" title="Yandex DataLens" alt="Yandex DataLens" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/git-white?logo=git&logoColor=orange&style=for-the-badge" title="Git" alt="Git" height="40"/>&nbsp;
+</div>
 
 ## Связаться со мной:
 <p> 
